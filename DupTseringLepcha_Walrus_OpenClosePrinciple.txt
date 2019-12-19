@@ -1,0 +1,4 @@
+O — Open/closed principle
+In programming, the open/closed principle states that software entities (classes, modules, functions, etc.) should be open for extensions, but closed for modification.
+If you have a general understanding of OOP, you probably already know about polymorphism. We can make sure that our code is compliant with the open/closed principle by utilizing inheritance and/or implementing interfaces that enable classes to polymorphically substitute for each other.
+This may sound confusing, so let’s do an example that will make it very clear what I mean.
